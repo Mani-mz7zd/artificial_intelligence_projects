@@ -1,0 +1,23 @@
+test_question1_case1_points,10
+test_question1_case1_status,passed
+test_question1_case2_points,10
+test_question1_case2_status,passed
+test_question1_case3_points,10
+test_question1_case3_status,passed
+test_question1_case4_points,10
+test_question1_case4_status,passed
+test_question1_case5_points,10
+test_question1_case5_status,passed
+test_question2_case1_points,10
+test_question2_case1_status,passed
+test_question2_case2_points,10
+test_question2_case2_status,passed
+test_question2_case3_points,0
+test_question2_case3_status,failed
+test_question2_case4_points,0
+test_question2_case4_status,failed
+test_question2_case5_points,0
+test_question2_case5_status,failed
+Total,70
+Late Penalty,0
+Total Autograding,70
